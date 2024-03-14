@@ -14,7 +14,9 @@ How to Use the Climate_Weather App:
 
 5.By clicking the “Reset” button,it will clear both input field and any displayed weather details ,providing a more user-friendly experience. The app will make an AJAX request to the OpenWeatherMap API and display the current weather information for the specified location.
 
+
 Expected Features and Functionality:
+
 
 1.Users can search for weather information for a specific city.
 
